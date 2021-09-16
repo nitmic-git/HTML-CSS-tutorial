@@ -45,3 +45,5 @@ documentでもdesktopでもどこでもいいので、好きな場所に、好�
 
 前の記事:[1.HTML/CSSって何？](../1_what_is_html_css/index.md)
 次の記事:[3.1.HTMLの書き方　構造編](../3_HTML_1/index.md)
+
+[目次に戻る](../../README.md)

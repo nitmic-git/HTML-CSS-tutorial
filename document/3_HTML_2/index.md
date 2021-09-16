@@ -69,3 +69,5 @@ header、main、footerなどから構成されます(ほかにasideなどが使�
 
 前の記事:[3.1.HTMLの書き方　構造編](../3_HTML_1/index.md)
 次の記事:[3.3.HTMLの書き方 よく使うタグ編](../3_HTML_3/index.md)
+
+[目次に戻る](../../README.md)

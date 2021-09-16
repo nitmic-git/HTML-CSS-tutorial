@@ -125,3 +125,5 @@ htmlタグ、headタグ、bodyタグの3つで構成されています。
 
 前の記事:[2.開発環境を整える](../2_environment_setup/index.md)
 次の記事:[3.2.HTMLの書き方 bodyの構造編](../3_HTML_2/index.md)
+
+[目次に戻る](../../README.md)
