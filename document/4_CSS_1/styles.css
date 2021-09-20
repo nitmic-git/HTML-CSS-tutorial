@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+    background-color: whitesmoke;
+}
+
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    background-color: black;
+    color:white;
+    width: 100%;
+    align-items: center;
+}
+header a{
+    color:white;
+    text-decoration: none;
+}
+header h1{
+    margin-right: auto;
+    margin-left: 32px;
+}
+header nav{
+    margin: 0 32px 0 0;
+}
+
+header ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+header ul li{
+    font-size: 24px;
+    display: inline-block;
+    margin-left:16px ;
+}
+
+header ul a:hover{
+    color:cyan;
+}
+
+.contents{
+    background-color: white;
+    width: 50%;
+    margin: 32px auto;
+    padding: 16px;
+    border-radius: 8px;
+}
+
+.contents:first-child{
+    margin-top: calc(91px + 2em);
+}
+
+.contents h1{
+    color:tomato;
+}
+
+.contents h2{
+    
+    color:teal;
+    margin: 0 0 0 1em;
+}
+
+.contents p{
+    margin: 0.5em 2em;
+}
+
+.contents ul{
+    margin: 0.5em 2em;
+    padding: 0;
+    list-style-type: none;
+}
+
+.contents-container{
+    width: 80%;
+    margin: auto;
+}
+
+#profile img{
+    display: inline-block;
+    border-radius: 50%;
+    width: 10em;
+    height: 10em;
+}
+
+#profile-content{
+    display: flex;
+    justify-content: center;
+}
+
+footer{
+    width: 100%;
+    color:black;
+    padding: .5em 0;
+}
+footer p{
+    text-align: center;
+    margin: 0;
+}
+
+.italic{
+    font-style: italic;
+}
